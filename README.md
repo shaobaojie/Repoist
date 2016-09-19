@@ -7,7 +7,7 @@ Laravel 5 repository generator.
 ### Step 1: Install Through Composer
 
 ```
-composer require ozankurt/repoist --dev
+composer require laravel/repoist --dev
 ```
 
 ### Step 2: Add the Service Provider

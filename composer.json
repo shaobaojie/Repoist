@@ -1,12 +1,12 @@
 {
-  "name": "ozankurt/repoist",
+  "name": "laravel/repoist",
   "description": "Laravel 5 repository generator.",
   "keywords": ["laravel", "repoist"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Ozan Kurt",
-      "email": "hello@ozankurt.com"
+      "name": "baojie.shao",
+      "email": "26416@163.com"
     }
   ],
   "require": {
